@@ -1,0 +1,10 @@
+﻿  Arcade.cpp
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(63): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(68): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(73): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(74): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(88): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(93): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(218): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\hp\documents\visual studio 2017\projects\arcade\arcade\arcade.cpp(248): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  Arcade.vcxproj -> C:\Users\HP\Documents\Visual Studio 2017\Projects\Arcade\Debug\Arcade.exe
